@@ -1,3 +1,6 @@
+git add .
+git commit -m "botão" 
+git push 
 /* COMENTÁRIOS SOBRE CSS */
 body { /* abre body*/
     font-family:Arial, Helvetica, sans-serif;
